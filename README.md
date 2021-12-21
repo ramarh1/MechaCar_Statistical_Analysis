@@ -3,10 +3,11 @@
 ## Purpose
 In this challenge, you’ll help Jeremy and the data analytics team do the following:
 
-Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
-Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
-Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+* Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+* Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+* Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+* For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
 Resulting Model: mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
