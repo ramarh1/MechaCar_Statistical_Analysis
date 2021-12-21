@@ -14,10 +14,12 @@ Resulting Model: mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)
 
 ## Summary Statistics on Suspension Coils
 
-Total Summary
+**Total Summary**
+
 <img width="532" alt="Lot Summary" src="https://user-images.githubusercontent.com/88624677/146832910-ea74dfd1-be09-4647-83f2-a2281808f3c9.png">
 
-Lot Summary
+**Lot Summary**
+
 <img width="532" alt="Lot Summary" src="https://user-images.githubusercontent.com/88624677/146832933-25bc7d20-1c20-4fe3-850d-64785e7bdeb5.png">
 
 1. The value of the variance for the total summary is 62.3, which indiciates that current manufacturing data meets the design specification and does not exceed 100 pounds per square inch. In contrast, the both Lot 1 and 2 meet the design specification with values of 0.98 and 7.5, respectively. Whereas Lot 3 does not meet the specifications since the variation has a value of 170.3 pounds per square inch.
